@@ -13,6 +13,6 @@ if (SepatuHitam) {
   console.log('Sumbul membeli sepatu warna hitam');
 } else {
   console.log(
-    'Tidak ada sepatu warna hitam. Sehingga sumbul membeli sepatu warna putih dan kaos kaki warna putih'
+    'Sumbul membeli sepatu warna putih dan kaos kaki warna putih'
   );
 }
